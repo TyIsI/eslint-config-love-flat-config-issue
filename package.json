@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-bs",
+  "packageManager": "yarn@4.1.1",
+  "private": true,
+  "devDependencies": {
+    "@eslint/js": "^9.3.0",
+    "@typescript-eslint/utils": "^7.10.0",
+    "eslint": "9.x",
+    "eslint-config-love": "^48.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "globals": "^15.3.0",
+    "prettier": "^3.2.5",
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.10.0"
+  }
+}
